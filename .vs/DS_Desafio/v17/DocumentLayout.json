@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\ds_desafio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\ds_desafio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\taskdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\taskdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DS_Desafio.http",
+              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\DS_Desafio.http",
+              "RelativeDocumentMoniker": "DS_Desafio\\DS_Desafio.http",
+              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\DS_Desafio.http",
+              "RelativeToolTip": "DS_Desafio\\DS_Desafio.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-31T03:15:07.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskDb.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\TaskDb.cs",
+              "RelativeDocumentMoniker": "DS_Desafio\\TaskDb.cs",
+              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\TaskDb.cs",
+              "RelativeToolTip": "DS_Desafio\\TaskDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:56:17.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\Task.cs",
+              "RelativeDocumentMoniker": "DS_Desafio\\Task.cs",
+              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\Task.cs",
+              "RelativeToolTip": "DS_Desafio\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:48:00.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\Program.cs",
+              "RelativeDocumentMoniker": "DS_Desafio\\Program.cs",
+              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\Program.cs",
+              "RelativeToolTip": "DS_Desafio\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:03:46.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

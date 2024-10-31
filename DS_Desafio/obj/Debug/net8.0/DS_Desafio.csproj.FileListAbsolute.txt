@@ -34,3 +34,6 @@ C:\Users\Cliente\source\repos\DS_Desafio\DS_Desafio\bin\Debug\net8.0\Microsoft.E
 C:\Users\Cliente\source\repos\DS_Desafio\DS_Desafio\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Cliente\source\repos\DS_Desafio\DS_Desafio\obj\Debug\net8.0\DS_Desafio.csproj.AssemblyReference.cache
 C:\Users\Cliente\source\repos\DS_Desafio\DS_Desafio\obj\Debug\net8.0\DS_Desafio.csproj.Up2Date
+C:\Users\Cliente\source\repos\DS_Desafio\DS_Desafio\obj\Debug\net8.0\DS_Desafio.sourcelink.json
+C:\Users\Cliente\source\repos\DS_Desafio\DS_Desafio\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Cliente\source\repos\DS_Desafio\DS_Desafio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll

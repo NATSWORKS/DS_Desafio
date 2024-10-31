@@ -1,0 +1,10 @@
+﻿@DS_Desafio_HostAddress = https://localhost:7072
+
+POST {{DS_Desafio_HostAddress}}/taskitems
+
+Content-Type: application/json
+{
+  "id":"1"
+}
+
+###
