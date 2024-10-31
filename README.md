@@ -17,4 +17,4 @@ Comandos para rodar a aplicação e os testes.
 
 ### Banco de dados
 **Banco de dados**  
-Informaç~eos sobre o banco de dados usado.
+Informações sobre o banco de dados usado.
