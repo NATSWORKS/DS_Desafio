@@ -1,17 +1,14 @@
 using DS_Desafio;
 using Microsoft.EntityFrameworkCore;
-using System.Threading.Tasks;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<TaskDb>(opt => opt.UseInMemoryDatabase("TaskList"));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
 var app = builder.Build();
 
 app.MapGet("/taskitems", async (TaskDb db) =>
     await db.Tasks.ToListAsync());
-
-/*app.MapGet("/taskitems/complete", async (TaskDb db) =>
-    await db.Tasks.Where(t => t.IsComplete).ToListAsync());*/
 
 app.MapGet("/taskitems/{id}", async (int id, TaskDb db) =>
     await db.Tasks.FindAsync(id)
@@ -24,7 +21,7 @@ app.MapPost("/taskitems", async (DS_Desafio.Task task, TaskDb db) =>
     db.Tasks.Add(task);
     await db.SaveChangesAsync();
 
-    return Results.Created($"/taskitems/{task.id}", task);
+    return Results.Created($"/taskitems/{task.Id}", task);
 });
 
 app.MapPut("/taskitems/{id}", async (int id, DS_Desafio.Task inputTask, TaskDb db) =>
@@ -33,7 +30,7 @@ app.MapPut("/taskitems/{id}", async (int id, DS_Desafio.Task inputTask, TaskDb d
 
     if (task is null) return Results.NotFound();
 
-    task.title = inputTask.title;
+    task.Title = inputTask.Title;
     //task.IsComplete = inputTask.IsComplete;//--------------------
 
     await db.SaveChangesAsync();

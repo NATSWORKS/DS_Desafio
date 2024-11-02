@@ -2,22 +2,19 @@
 {
     public class Task
     {
-        public int id { get; set; }
-        public string? title { get; set; }
-        public string? description { get; set; }
-        public DateTime? dateCreated { get; }
-        public DateTime? dateConclusion { get; set; }
+        public int Id { get; set; }
+        public string? Title { get; set; }
+        public string? Description { get; set; }
+        public DateTime DateCreated { get; set; }
+        public DateTime? DateConclusion { get; set; }
 
-        /*
-        ========================
-        Task
-        ------------------------
-        Inicializador, define a hora automaticamente na criação.
-        ========================
-        */
-        public Task()
+        public StatusE Status { get; set; }
+
+        public enum StatusE
         {
-            dateCreated = DateTime.Now;
+            Pendente,
+            EmProgresso,
+            Concluida
         }
     }
 }
