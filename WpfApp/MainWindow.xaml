@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" WindowState="Maximized">
     <Grid OpacityMask="Black" Background="#FF333333">
         <DataGrid x:Name="dtTarefas" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,132,10,10" Background="#FF656565"/>
         <Button x:Name="btnAddTarefa" Content="Adicionar Tarefa" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Background="#FF369223" Foreground="White" Width="100" Click="btnAddTarefa_Click"/>

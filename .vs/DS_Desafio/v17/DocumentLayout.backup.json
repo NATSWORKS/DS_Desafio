@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\wpfapp\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\wpfapp\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\taskdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\taskdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\wpfapp\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{970112B0-85D9-4972-8210-129826124586}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|c:\\users\\cliente\\source\\repos\\ds_desafio\\ds_desafio\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53B4B51-6AC6-4A76-BB18-CFAE782756BA}|DS_Desafio\\DS_Desafio.csproj|solutionrelative:ds_desafio\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:01:13.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\TaskController.cs",
+              "RelativeDocumentMoniker": "DS_Desafio\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\TaskController.cs",
+              "RelativeToolTip": "DS_Desafio\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:55:11.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\Program.cs",
               "RelativeDocumentMoniker": "DS_Desafio\\Program.cs",
               "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\Program.cs",
               "RelativeToolTip": "DS_Desafio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T02:27:24.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TaskDb.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\TaskDb.cs",
               "RelativeDocumentMoniker": "DS_Desafio\\TaskDb.cs",
               "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\TaskDb.cs",
               "RelativeToolTip": "DS_Desafio\\TaskDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T02:20:22.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\Task.cs",
-              "RelativeDocumentMoniker": "DS_Desafio\\Task.cs",
-              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\Task.cs",
-              "RelativeToolTip": "DS_Desafio\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\TaskModel.cs",
+              "RelativeDocumentMoniker": "DS_Desafio\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\TaskModel.cs",
+              "RelativeToolTip": "DS_Desafio\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T02:12:36.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Window1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\WpfApp\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp\\Window1.xaml.cs",
               "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\WpfApp\\Window1.xaml.cs",
               "RelativeToolTip": "WpfApp\\Window1.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAMwCIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T02:11:50.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\WpfApp\\Window1.xaml",
-              "RelativeDocumentMoniker": "WpfApp\\Window1.xaml",
-              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\WpfApp\\Window1.xaml",
-              "RelativeToolTip": "WpfApp\\Window1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-02T01:25:20.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\WpfApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
@@ -114,6 +132,19 @@
               "RelativeToolTip": "WpfApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-02T00:54:20.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\appsettings.json",
+              "RelativeDocumentMoniker": "DS_Desafio\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cliente\\source\\repos\\DS_Desafio\\DS_Desafio\\appsettings.json",
+              "RelativeToolTip": "DS_Desafio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T19:22:39.264Z",
               "EditorCaption": ""
             }
           ]

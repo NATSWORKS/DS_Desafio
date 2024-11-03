@@ -1,11 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DS_Desafio;
+using Microsoft.EntityFrameworkCore;
 
-namespace DS_Desafio
+public class TaskDb : DbContext
 {
-    public class TaskDb : DbContext
-    {
-        public TaskDb(DbContextOptions<TaskDb> options) : base(options) { }
+    public TaskDb(DbContextOptions<TaskDb> options) : base(options) { }
 
-        public DbSet<Task> Tasks => Set<Task>();
-    }
+    //public DbSet<Task> Tasks => Set<TaskModel>();
+    public DbSet<TaskModel> Tasks { get; set; }
 }

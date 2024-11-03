@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Net.Http;
+using System.Net.Http.Json;
 using System.Windows;
 using DS_Desafio;
 using Microsoft.Extensions.Options;
-using static DS_Desafio.Task;
+using static DS_Desafio.TaskModel;
 
 namespace WpfApp
 {
@@ -11,27 +13,56 @@ namespace WpfApp
     /// </summary>
     public partial class Window1 : Window
     {
-        private readonly TaskDb _context;
+        private readonly HttpClient _httpClient;
 
-        public Window1(TaskDb context)
+        /*
+        ========================
+        Window1
+        ------------------------
+        Inicializador.
+        ========================
+        */
+        public Window1()
         {
             InitializeComponent();
-            _context = context;
+            _httpClient = new HttpClient { BaseAddress = new Uri("https://localhost:7072/") }; // URL da API ASP.NET
         }
 
+        /*
+        ========================
+        BtnCreate_Click
+        ------------------------
+        Cria cadastro no banco de dados.
+        ========================
+        */
         private async void BtnCreate_Click(object sender, RoutedEventArgs e)
         {
-            var newTask = new DS_Desafio.Task// Cria uma Task
+            try
             {
-                Title = tbTitle.Text,
-                Description = tbDesc.Text,
-                DateCreated = DateTime.Now,
-                DateConclusion = dpData.SelectedDate,
-                Status = StatusE.Pendente
-            };
+                var newTask = new TaskModel
+                {
+                    Title = tbTitle.Text,
+                    Description = tbDesc.Text,
+                    DateCreated = DateTime.Now,
+                    DateConclusion = dpData.SelectedDate,
+                    Status = StatusE.Pendente
+                };
 
-            _context.Tasks.Add(newTask);  // Adiciona a nova task ao contexto
-            await _context.SaveChangesAsync();  // Salva as mudanças no banco de dados
+                var response = await _httpClient.PostAsJsonAsync("api/task/add", newTask);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    MessageBox.Show("Tarefa criada com sucesso!");
+                }
+                else
+                {
+                    MessageBox.Show("Erro ao criar a tarefa.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Erro: {ex.Message}");
+            }
         }
     }
 }

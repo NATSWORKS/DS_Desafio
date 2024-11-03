@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
-        Title="Editar" Height="249" Width="435">
+        Title="Editar" Height="249" Width="435" SizeToContent="WidthAndHeight" WindowState="Maximized" WindowStartupLocation="CenterScreen">
     <Grid Background="#FF333333">
         <Label Content="Título:" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" Foreground="White"/>
         <Label x:Name="txtTela" Content="Editar tarefa" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Foreground="White"/>

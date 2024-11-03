@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
-        Title="Cadastro" Height="225" Width="437">
+        Title="Cadastro" Height="233" Width="439" WindowStartupLocation="CenterScreen" WindowState="Maximized" SizeToContent="WidthAndHeight">
     <Grid Background="#FF333333">
         <Label Content="Título:" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Foreground="White"/>
         <Label x:Name="txtTela" Content="Nova tarefa" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Foreground="White"/>

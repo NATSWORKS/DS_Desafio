@@ -5,9 +5,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<TaskDb>(opt => opt.UseInMemoryDatabase("TaskList"));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
+builder.Services.AddDbContext<TaskDb>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 var app = builder.Build();
 
-app.MapGet("/taskitems", async (TaskDb db) =>
+/*app.MapGet("/taskitems", async (TaskDb db) =>
     await db.Tasks.ToListAsync());
 
 app.MapGet("/taskitems/{id}", async (int id, TaskDb db) =>
@@ -48,6 +51,6 @@ app.MapDelete("/taskitems/{id}", async (int id, TaskDb db) =>
     }
 
     return Results.NotFound();
-});
+});*/
 
 app.Run();
